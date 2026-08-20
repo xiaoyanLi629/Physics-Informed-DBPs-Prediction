@@ -1,25 +1,5 @@
-# Directories not tracked
-manuscript/
-references/
-results/
-
-# macOS
-.DS_Store
-
-# Python
 __pycache__/
-*.py[cod]
-*.egg-info/
-.eggs/
-dist/
-build/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Virtual environments
-venv/
-.env/
+*.pyc
+.DS_Store
+.pytest_cache/
+*.log
