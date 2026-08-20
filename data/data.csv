@@ -1,4 +1,4 @@
-﻿Sample,DCAA (mg/L),TCAA (ug/L),BCAA(mg/L),HAA5 (ug/L),HAA9 (ug/L),Temp,pH ,UVA254(cm),Cl2 (mg/L),NO2 -N (mg/L),DOC (mg/L),NH4-N (ug/L),Br (ug/L)
+﻿Sample,DCAA (ug/L),TCAA (ug/L),BCAA (ug/L),HAA5 (ug/L),HAA9 (ug/L),Temp (C),pH,UVA254 (1/cm),Cl2 (mg/L),NO2-N (ug/L),DOC (mg/L),NH4-N (ug/L),Br (ug/L)
 1,6.4,5.92,0.65,13.66,15.89,24.1,7.24,0.032,0.06,4.28,1.83,4.38,6.05
 2,5.7,4.39,0.78,10.09,11.16,8.5,7.18,0.02,0.15,0,0.93,29.65,2.85
 3,5.03,3.2,0.84,8.23,9.29,9,7.11,0.019,0.28,0,0.96,32.35,2.62

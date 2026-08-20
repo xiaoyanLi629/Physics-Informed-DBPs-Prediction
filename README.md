@@ -75,7 +75,8 @@ All outputs are written to `results_v2/`. Run tests with `python -m pytest tests
 
 **Original dataset** (`data/data.csv`):
 - 66 treated water samples, 8 features, 5 HAA targets (DCAA, TCAA, BCAA, HAA5, HAA9)
-- Features: Temp, pH, UVA254, Cl2, NO2-N, DOC, NH4-N, Br
+- Features: Temp (°C), pH, UVA254 (cm⁻¹), Cl2 (mg/L), NO2-N (µg/L), DOC (mg/L), NH4-N (µg/L), Br (µg/L)
+- All HAA targets in µg/L (the species–aggregate hierarchy DCAA+TCAA+BCAA ≤ HAA5 ≤ HAA9 holds in the raw values)
 
 **Ontario DWSP dataset** (`data/ontario_data.csv`):
 - 175 treated-water samples from the Ontario Drinking Water Surveillance Program (all from 2017 after feature-completeness filtering; 96 water systems)
